@@ -1,0 +1,48 @@
+D:\Backup-pj\ems-system\ems-system\obj\Debug\ems_system.LoginForm.resources
+D:\Backup-pj\ems-system\ems-system\obj\Debug\ems_system.Properties.Resources.resources
+D:\Backup-pj\ems-system\ems-system\obj\Debug\ems-system.csproj.GenerateResource.Cache
+D:\Backup-pj\ems-system\ems-system\bin\Debug\ems-system.exe.config
+D:\Backup-pj\ems-system\ems-system\bin\Debug\ems-system.exe
+D:\Backup-pj\ems-system\ems-system\bin\Debug\ems-system.pdb
+D:\Backup-pj\ems-system\ems-system\obj\Debug\ems-system.exe
+D:\Backup-pj\ems-system\ems-system\obj\Debug\ems-system.pdb
+D:\Backup-pj\ems-system\ems-system\obj\Debug\ems_system.HomeForm.resources
+D:\Backup-pj\ems-system\ems-system\bin\Debug\QRCoder.dll
+D:\Backup-pj\ems-system\ems-system\bin\Debug\AForge.dll
+D:\Backup-pj\ems-system\ems-system\bin\Debug\AForge.Video.DirectShow.dll
+D:\Backup-pj\ems-system\ems-system\bin\Debug\AForge.Video.dll
+D:\Backup-pj\ems-system\ems-system\bin\Debug\zxing.dll
+D:\Backup-pj\ems-system\ems-system\bin\Debug\zxing.presentation.dll
+D:\Backup-pj\ems-system\ems-system\bin\Debug\AForge.xml
+D:\Backup-pj\ems-system\ems-system\bin\Debug\AForge.Video.xml
+D:\Backup-pj\ems-system\ems-system\bin\Debug\AForge.Video.DirectShow.xml
+D:\Backup-pj\ems-system\ems-system\bin\Debug\zxing.xml
+D:\Backup-pj\ems-system\ems-system\bin\Debug\zxing.presentation.xml
+D:\Backup-pj\ems-system\ems-system\obj\Debug\ems_system.AttendanceForm.resources
+D:\Backup-pj\ems-system\ems-system\obj\Debug\ems_system.RecordForm.resources
+D:\Backup-pj\ems-system\ems-system\obj\Debug\ems-system.csprojResolveAssemblyReference.cache
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\bin\Debug\ems-system.exe.config
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\bin\Debug\ems-system.exe
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\bin\Debug\ems-system.pdb
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\bin\Debug\AForge.dll
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\bin\Debug\AForge.Video.dll
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\bin\Debug\QRCoder.dll
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\bin\Debug\zxing.dll
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\bin\Debug\zxing.presentation.dll
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\bin\Debug\AForge.xml
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\bin\Debug\AForge.Video.xml
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\bin\Debug\zxing.xml
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\bin\Debug\zxing.presentation.xml
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\obj\Debug\ems-system.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\obj\Debug\ems_system.AttendanceForm.resources
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\obj\Debug\ems_system.HomeForm.resources
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\obj\Debug\ems_system.LoginForm.resources
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\obj\Debug\ems_system.Properties.Resources.resources
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\obj\Debug\ems_system.RecordForm.resources
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\obj\Debug\ems-system.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\obj\Debug\ems-system.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\obj\Debug\ems-system.csproj.CopyComplete
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\obj\Debug\ems-system.exe
+C:\Users\Acer\OneDrive - Pangasinan State University Main Campus - Lingayen\Documents\DATABASE\ems-system\ems-system\ems-system\obj\Debug\ems-system.pdb
